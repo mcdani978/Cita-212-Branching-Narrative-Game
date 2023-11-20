@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: C3
+  m_EditorClassIdentifier: 
+  strStoryText: 'Morrisville students and other local weird people from around Morrisville
+    buy Melvyn''s stolen and contaminated weed. The people who bought the weed within
+    a day become super adicted to it and their body starts to deteriorate super-fast.
+    After 24 their bodies fully resemble that of a zombie. But they don''t try to
+    attack people like your average zombie these zombies are just very chill and
+    smoke weed 24/7. The addictive effects of this zombie weed seem to be 1 million
+    times stronger than that of meth or cocaine.
+
+
+    1. 2 Weeks Pass.'
+  nextState:
+  - {fileID: 11400000, guid: cbede9cdc3e774b43a245cdee9fc91ff, type: 2}

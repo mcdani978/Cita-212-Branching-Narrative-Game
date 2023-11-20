@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: C1 View from Bridge 1
+  m_EditorClassIdentifier: 
+  strStoryText: "Melvyn a local drug dealer and student at suny morrisville, breaks
+    into the secret greenhouse basement where the weed is grown to steal it. Which
+    in turn he will then ultimately deal it to students and other people. He notices
+    though that something is really off about the weed. What should Melvyn do next?\n\n1.
+    He decides he doesn't give 2 damns about the well being of his customers. All
+    he cares about is money. So he ultimately goes through with stealing weed from
+    the secret Green House Basement.\n\n2. Melvyn ultimately decides to not steal
+    the weed because he notices there is something seriously wrong it. He is looking
+    out for the wellbeing of his customers and doesn't want them smoking contaminated
+    seed.  \n"
+  nextState:
+  - {fileID: 11400000, guid: 4f422960746c5dd41bc727cee2ac7ab2, type: 2}
+  - {fileID: 11400000, guid: 571b4009d5b69cb498a44b53fce7b975, type: 2}

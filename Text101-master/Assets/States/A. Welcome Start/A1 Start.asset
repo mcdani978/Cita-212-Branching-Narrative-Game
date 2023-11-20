@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: A1 Start
+  m_EditorClassIdentifier: 
+  strStoryText: "The Weed at the Canabis Growing Program At Morrisville Becomes Infected
+    Because of some experiment the professor in charge decided to do.\n\n1. Press
+    1 to continue on with the story.  \n\n "
+  nextState:
+  - {fileID: 11400000, guid: 8610d9a224aa276429e48b39f4c43c6d, type: 2}
