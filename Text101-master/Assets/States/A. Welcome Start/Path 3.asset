@@ -10,12 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
-  m_Name: C2 Weed Zombie Apocalypse Averted End of Story
+  m_Name: Path 3
   m_EditorClassIdentifier: 
-  strStoryText: 'Weed Zombie Apocalypse Averted End Of Story.
-
-
-    1. Click 1 for
-    the ending. '
+  strStoryText: "Your driving on the nice concrete road. When all of a sudden a deer
+    jumps out at you in the road. Which way do you swerve to avoid it. \n\n1. Swerve
+    to the left.\n\n2. Swerve to the right. "
   nextState:
-  - {fileID: 11400000, guid: 1b37edc00fdef4f479549fbdf1ec827a, type: 2}
+  - {fileID: 11400000, guid: 5a044eeab918558468e8eaa22872c198, type: 2}
+  - {fileID: 11400000, guid: df031e5b984bdfc4b825cc8b481bf108, type: 2}

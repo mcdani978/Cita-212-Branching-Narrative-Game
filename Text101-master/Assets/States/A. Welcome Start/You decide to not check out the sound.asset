@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: You decide to not check out the sound
+  m_EditorClassIdentifier: 
+  strStoryText: "You keep walking through the woods and eventually a car drives by
+    you. They pick you up and bring you back to your car. Luckily the person even
+    has some gas which is enough to get to morrisville. The person also gives you
+    directons. You then begin your drive again. \n\n1. continue with the story\n\n"
+  nextState:
+  - {fileID: 11400000, guid: e23935f3f2690964aac019f7ab8aaa88, type: 2}

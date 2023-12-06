@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: Go down the road anyway
+  m_EditorClassIdentifier: 
+  strStoryText: "You decide you don't give a damn about the road workers and the
+    road being closed you continue on driving down the road anyway's. The road was
+    closed because there was a bridge being worked on and it was temporily taken
+    out. Your car end ups going off the road where the bridge should have been and
+    into a river. Which immediately causes your death. \n\n1. Try Again"
+  nextState:
+  - {fileID: 11400000, guid: 1844997728bc1754da33356344d3b9bb, type: 2}

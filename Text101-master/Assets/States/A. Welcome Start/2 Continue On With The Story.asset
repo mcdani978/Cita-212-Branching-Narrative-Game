@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: 2 Continue On With The Story
+  m_EditorClassIdentifier: 
+  strStoryText: "Since you run out of gas in the middle of nowhere. You decide to
+    get out of your car and walk a little ways. After walking for a certain amount
+    of itme you hear a roaring sound in the woods what should do next. \n\n1. Check
+    out what made the sound\n\n2. You decide to not check out the sound. "
+  nextState:
+  - {fileID: 11400000, guid: 58e37ca4347e58d4c803b3148b81ff9f, type: 2}
+  - {fileID: 11400000, guid: c3d7084949594bf478265791ba1cb5a0, type: 2}

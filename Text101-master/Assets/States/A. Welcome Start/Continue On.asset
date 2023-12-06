@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: Continue On
+  m_EditorClassIdentifier: 
+  strStoryText: "On your drive in the road you encounter 3 paths you could possibly
+    take. Which one should you choose. \n\n1. Path 1 you notice that there is a road
+    work sign and there maybe delays. \n\n2. Path 2 you notice that this path is
+    an old dirt road. \n\n3. Path 3 This path seems like an average concrete road
+    with no issues at all.  "
+  nextState:
+  - {fileID: 11400000, guid: d76c648738feceb42b96b814165a398c, type: 2}
+  - {fileID: 11400000, guid: faa63d431298c5f45a9cf726cadd752f, type: 2}
+  - {fileID: 11400000, guid: 38ef0fe43996c8847b8275f4e30b4f86, type: 2}

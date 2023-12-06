@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: Path 2
+  m_EditorClassIdentifier: 
+  strStoryText: "You drive down the old dirt road and you try to find your way to
+    Morrisville. But you ultimatly become lost and run out of gas. \n\n1. Continue
+    On with the Story"
+  nextState:
+  - {fileID: 11400000, guid: 31ec3fd1fa7f23445a1e2c704e6dc72f, type: 2}

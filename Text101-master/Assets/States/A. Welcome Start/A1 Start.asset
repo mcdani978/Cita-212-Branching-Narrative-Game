@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
   m_Name: A1 Start
   m_EditorClassIdentifier: 
-  strStoryText: "The Weed at the Canabis Growing Program At Morrisville Becomes Infected
-    Because of some experiment the professor in charge decided to do.\n\n1. Press
-    1 to continue on with the story.  \n\n "
+  strStoryText: "A typical Morrisvile student gets in their car in the morning and
+    drives to class how fast should they drive to get to Morrisville you choose.
+    \n\n1. 30 MPH\n\n2. 80 MPH\n\n3. 55 MPH"
   nextState:
-  - {fileID: 11400000, guid: 8610d9a224aa276429e48b39f4c43c6d, type: 2}
+  - {fileID: 11400000, guid: 21b73dfbcd542524485b6107ca1d245d, type: 2}
+  - {fileID: 11400000, guid: b1992bb618e1430448924725905adb88, type: 2}
+  - {fileID: 11400000, guid: 0d7fe1fde7fa60b4a829c29532ca9327, type: 2}
